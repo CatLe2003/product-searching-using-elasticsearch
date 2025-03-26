@@ -13,7 +13,7 @@
 1. Mở terminal, điều hướng đến thư mục chứa Elasticsearch
 2. Chạy lệnh sau để khởi động Elasticsearch:
    ```sh
-   bin/elasticsearch
+   bin/elasticsearch.bat
    ```
 3. Mở trình duyệt kiểm tra Elasticsearch đã chạy chưa:
    - Truy cập: [http://localhost:9200](http://localhost:9200)
